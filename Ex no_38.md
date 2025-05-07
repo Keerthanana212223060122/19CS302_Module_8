@@ -11,7 +11,7 @@ To write a program to print the sum and difference of the given two integers .
 6. Print out the answer.
 7. End.
 ## PROGRAM:
-```
+```c program
 #include <stdio.h>
 int main() {
  int a, b;
