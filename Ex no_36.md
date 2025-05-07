@@ -29,7 +29,6 @@ printf("Hello, Saveetha!\n%s",a);
 }
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/271a45d4-a6ba-43c0-a45e-b529ef0e63e0)
-
+![Screenshot 2025-05-07 162034](https://github.com/user-attachments/assets/86acc6c3-a3df-4376-b4dc-b21f2b1d922d)
 ## RESULT:
 Thus, the program is executed and verified successfully.
