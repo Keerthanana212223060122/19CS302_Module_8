@@ -8,9 +8,9 @@ Saveetha
 
 The required output is: Hello, Saveetha! C Programming
 
-# AIM:
+## AIM:
 To write a C program to print the given string.
-# ALGORITHM:
+## ALGORITHM:
 1. Start.
 2. Define a variables.
 3. Write a program to print the given string.
