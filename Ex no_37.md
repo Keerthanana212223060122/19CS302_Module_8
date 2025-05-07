@@ -12,9 +12,9 @@ integers
 Output Format
 Print the sum of the integers in the array.
 
-# AIM:
+## AIM:
 To write a program to print the sum of the integers in the array.
-# ALGORITHM:
+## ALGORITHM:
 1. Start.
 2. Define a variables.
 3. Write a program to print the sum of the integers in the array.
