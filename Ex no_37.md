@@ -39,6 +39,6 @@ i++;
 }
 ```
 ## output:
-![image](https://github.com/user-attachments/assets/989a2c54-3a95-4d6a-a16e-370ce01b4ff8)
+![Screenshot 2025-05-07 220744](https://github.com/user-attachments/assets/50a5138e-789e-4b45-ab4c-17ee6e0eb62d)
 ## RESULT:
 Thus, the program is executed and verified successfully.
