@@ -51,8 +51,8 @@ bc
 a bc bc
 bc a bc
 bc bc a
-## Program
-```
+## Program:
+```c program
 #include<stdio.h>
 #include<string.h>
 
@@ -104,7 +104,7 @@ int main() {
 }
 
 ```
-## OUTPUT
+## OUTPUT:
 ![image](https://github.com/user-attachments/assets/f850e729-f017-4c35-bec2-8db9df389cab)
 ## Result:
 Thus the program was executed and the output was verified successfully.
