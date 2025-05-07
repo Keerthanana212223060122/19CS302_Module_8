@@ -35,7 +35,8 @@ difference
 ```
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/608b45c7-8116-443a-8353-018a12e962db)
+
+![Screenshot 2025-05-07 220952](https://github.com/user-attachments/assets/80b94174-447c-494c-9cfc-38f8f0408f8d)
 
 ## RESULT:
 Thus, the program is executed and verified successfully.
